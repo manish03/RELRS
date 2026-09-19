@@ -1,0 +1,5 @@
+erasure This is a (58, 48, 11, 4) binary RS code
+error This is a (58, 48, 11, 4) binary RS code
+This is a (58, 48, 11) binary RS code
+Succesful decoding
+nocycles:0 mm_var:6 tt_var:5 length:58
