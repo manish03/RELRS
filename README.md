@@ -11,6 +11,8 @@ This repository contains a demo implementation of a Reed-Solomon error-correctin
 - Status: Demo version
 
 The implementation is intended to demonstrate Reed-Solomon encoding and error correction using the included RTL and supporting files.
+Use make demo_iv_rel
+You need to have icarus iverilog installed
 
 ## Commercial Extensions
 
